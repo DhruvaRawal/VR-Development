@@ -1,3 +1,3 @@
 # VR-Development
 
-Learing VR development
+Learing VR Development
